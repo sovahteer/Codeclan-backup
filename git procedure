@@ -1,0 +1,53 @@
+--- Git Hub Procedure ---
+
+Mkdir New_project
+
+git init
+
+git add .file
+
+git commit 
+
+git remode add origin link
+
+it push -u origin master
+
+add collaborators
+
+git checkout -b develop
+
+                                        .feature------.
+                                       /               \
+             .feature-----.           /                 \
+            /              \         /                   \
+           /                \       /                     \
+          . develop----------.-----.-----------------------.
+         /                                                  \                    
+        /                                                    \                    
+Master .--------------------------------------------------------------------------
+
+--- Git Flow ---
+git pull
+< work goes here >
+git add . file
+git commit -m "meaningful comment"
+git pull for sanity's sake
+git push
+repeat.
+
+--- merging ---
+git checkout develop
+git pull
+
+--- testing it works ---
+git checkout feature
+git merge develop
+git pull
+git push
+
+--- merge your code ---
+git checkout develop
+git merge feature
+git pull
+git push
+

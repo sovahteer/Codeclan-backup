@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55a5a739-8c02-4538-8997-ad2d5902e424" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1264874388">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="493" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="493" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VehicleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Motorbike.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CarTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+              <folding>
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MotorbikeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="/usr/local/Cellar/gradle/4.9/libexec" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.9" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="AbstractClassesTask" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="AbstractClassesTask" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'AbstractClassesTask'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'AbstractClassesTask'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'AbstractClassesTask'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'AbstractClassesTask'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'AbstractClassesTask'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'AbstractClassesTask'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'AbstractClassesTask'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'AbstractClassesTask'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'AbstractClassesTask'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4599640601000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3936917167" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1061797022" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2000546317" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="AbstractClassesTask" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-model-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-tooling-models-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-resources-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-tooling-api-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-core-api-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/ant-1.9.11.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-cli-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-docs-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-persistent-cache-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-build-option-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/ant-launcher-1.9.11.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-messaging-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/groovy-all-2.4.12.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-jvm-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-launcher-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-base-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-provider-plugins-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-tooling-builders-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-model-core-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-core-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-installation-beacon-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-base-services-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-process-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-build-cache-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-runtime-api-info-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-logging-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-wrapper-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-base-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-init-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-maven-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-sftp-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-signing-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-s3-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-code-quality-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-test-kit-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ivy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-osgi-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-java-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-antlr-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-reporting-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-play-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-gcs-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-scala-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-http-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ear-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-publish-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-junit-platform-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-composite-builds-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-dependency-management-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-base-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugin-development-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-diagnostics-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-cache-http-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-workers-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-javascript-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-jacoco-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugins-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-comparison-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-version-control-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugin-use-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-scala-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-play-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-tooling-api-builders-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-announce-4.9.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Garage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GarageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CarTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MotorbikeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Motorbike.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Car.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VehicleTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="714" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AbstractClassesTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abstract_classes_start_point" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="AbstractClassesTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abstract_classes_start_point" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AbstractClassesTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abstract_classes_start_point" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="AbstractClassesTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abstract_classes_start_point" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AbstractClassesTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abstract_classes_start_point" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="AbstractClassesTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abstract_classes_start_point" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533220140096" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.VehicleTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in AbstractClassesTask_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AbstractClassesTask_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest.hasBoardingInstructions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AbstractClassesTask_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CarTest" />
+      <option name="METHOD_NAME" value="hasBoardingInstructions" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotorbikeTest.hasBoardingInstructions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AbstractClassesTask_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MotorbikeTest" />
+      <option name="METHOD_NAME" value="hasBoardingInstructions" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AbstractClassesTask_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VehicleTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest.collectionOfParentClassObjects" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AbstractClassesTask_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VehicleTest" />
+      <option name="METHOD_NAME" value="collectionOfParentClassObjects" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in AbstractClassesTask_test" />
+      <item itemvalue="JUnit.VehicleTest" />
+      <item itemvalue="JUnit.VehicleTest.collectionOfParentClassObjects" />
+      <item itemvalue="JUnit.CarTest.hasBoardingInstructions" />
+      <item itemvalue="JUnit.MotorbikeTest.hasBoardingInstructions" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VehicleTest" />
+        <item itemvalue="JUnit.MotorbikeTest.hasBoardingInstructions" />
+        <item itemvalue="JUnit.CarTest.hasBoardingInstructions" />
+        <item itemvalue="JUnit.All in AbstractClassesTask_test" />
+        <item itemvalue="JUnit.VehicleTest.collectionOfParentClassObjects" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55a5a739-8c02-4538-8997-ad2d5902e424" name="Default" comment="" />
+      <created>1511448324408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511448324408</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_AbstractClassesTask_test_(2) - 2018.05.14 at 23h 55m 27s.xml">
+      <configuration name="All in AbstractClassesTask_test (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest - 2017.11.23 at 14h 54m 19s.xml">
+      <configuration name="CarTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VehicleTest - 2018.08.02 at 13h 43m 48s.xml">
+      <configuration name="VehicleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VehicleTest_collectionOfParentClassObjects - 2018.08.02 at 13h 44m 12s.xml">
+      <configuration name="VehicleTest.collectionOfParentClassObjects" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest_hasBoardingInstructions - 2018.08.02 at 14h 34m 27s.xml">
+      <configuration name="CarTest.hasBoardingInstructions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest_hasBoardingInstructions - 2018.08.02 at 14h 34m 44s.xml">
+      <configuration name="CarTest.hasBoardingInstructions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MotorbikeTest_hasBoardingInstructions - 2018.08.02 at 14h 34m 53s.xml">
+      <configuration name="MotorbikeTest.hasBoardingInstructions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VehicleTest - 2018.08.02 at 14h 45m 51s.xml">
+      <configuration name="VehicleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VehicleTest - 2018.08.02 at 14h 47m 50s.xml">
+      <configuration name="VehicleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VehicleTest - 2018.08.02 at 14h 49m 51s.xml">
+      <configuration name="VehicleTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="714" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28109854" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32636657" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.28456593" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329582" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="DB Browser" order="0" />
+      <window_info id="Project Explorer" order="1" />
+      <window_info id="Job Explorer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.20759289" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="UI Designer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info id="Capture Tool" order="9" />
+      <window_info anchor="bottom" id="DB Execution Console" order="0" />
+      <window_info anchor="bottom" id="Build" order="1" visible="true" weight="0.28490028" />
+      <window_info anchor="bottom" id="Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32842416" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3298969" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ComputerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesktopComputer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Garage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/GarageTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Motorbike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MotorbikeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VehicleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 26 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

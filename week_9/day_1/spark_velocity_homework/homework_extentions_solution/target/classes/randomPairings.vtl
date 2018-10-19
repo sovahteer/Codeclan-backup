@@ -1,0 +1,10 @@
+<h1>Your random student groups are - </h1>
+
+#foreach ($group in $groups)
+
+<h2>Group $velocityCount:</h2>
+
+    #foreach ($student in $group.getStudents())
+     <p>$student.getName()</p>
+    #end
+#end

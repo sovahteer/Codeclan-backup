@@ -1,0 +1,7 @@
+<h1>Your random student pairings are - </h1>
+
+#foreach ($pairing in $pairings)
+
+ <p>Group $velocityCount: $pairing.getFirstStudentName(), $pairing.getSecondStudentName()</p>
+
+#end
